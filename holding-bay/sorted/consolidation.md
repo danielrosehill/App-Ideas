@@ -20,7 +20,7 @@ The initial validation of pulling in an organized structure of repositories from
 
 [![Interesting Tech Things](https://img.shields.io/badge/repo-Interesting--Tech--Things-blue?logo=github)](https://github.com/danielrosehill/Interesting-Tech-Things)
 
-## AI Agent UN + Israel GeoInsights + Middle Eastern Peace Summit
+## AI Agent UN + Israel GeoInsights + Middle Eastern Peace Summit + Peace In The Middle East
 
 These projects pair closely together in the concept of agents for geopolitical decision modeling and AI-driven geopolitical analysis.
 
@@ -33,6 +33,12 @@ These projects pair closely together in the concept of agents for geopolitical d
 This pairs very closely with the Middle Eastern Peace Summit and AI, and AI general experiments in the concept of agents for geopolitical decision modeling.
 
 [![Israel GeoInsights](https://img.shields.io/badge/repo-Israel--GeoInsights-blue?logo=github)](https://github.com/danielrosehill/Israel-GeoInsights)
+
+**Peace In The Middle East:**
+
+Part of the geopolitical and AI exploration concept.
+
+[![Peace In The Middle East](https://img.shields.io/badge/repo-Peace--In--The--Middle--East-blue?logo=github)](https://github.com/danielrosehill/Peace-In-The-Middle-East)
 
 ## Claude Linux Desktop Manager + Llama OS Doctor
 
@@ -61,3 +67,13 @@ This was a good starter, but as the distinction between development and AI syste
 **MCP Installation Notebook:**
 
 [![MCP Installation Notebook](https://img.shields.io/badge/repo-MCP--Installation--Notebook-blue?logo=github)](https://github.com/danielrosehill/MCP-Installation-Notebook)
+
+## Panel Of Claude + AI Decision-Making Exploration
+
+Models for exploring synthesized perspectives and decision-making in AI systems.
+
+**Panel Of Claude:**
+
+Can be bundled into the group of ideas exploring synthesized perspectives and decision-making in AI systems.
+
+[![Panel Of Claude](https://img.shields.io/badge/repo-Panel--Of--Claude-blue?logo=github)](https://github.com/danielrosehill/Panel-Of-Claude)

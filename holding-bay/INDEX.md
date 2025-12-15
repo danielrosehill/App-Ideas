@@ -7,8 +7,9 @@ This index provides a comprehensive overview of all repositories organized in th
 Related ideas and projects that could be grouped, matched, or integrated together.
 
 - **Github Star Organiser + Interesting Tech Things** - GitHub star organization with downstream data sources
-- **AI Agent UN + Israel GeoInsights + Middle Eastern Peace Summit** - Geopolitical decision modeling projects
+- **AI Agent UN + Israel GeoInsights + Middle Eastern Peace Summit + Peace In The Middle East** - Geopolitical decision modeling projects
 - **Claude Linux Desktop Manager + Llama OS Doctor** - Agentic AI for system administration
+- **Panel Of Claude + AI Decision-Making Exploration** - Synthesized perspectives and decision-making in AI systems
 
 ## Experiments in Progress
 
@@ -24,6 +25,7 @@ Long-term visions addressing bigger-picture challenges.
 
 - **A Better Jobs Platform Notes** - Reimagining job market platforms
 - **Jerusalem Tech Ecosystem** - Long-term passion project for Jerusalem tech community
+- **Pay For Ideas** - Long-term concept notes without immediate implementation
 
 ## Needs Update
 
@@ -56,6 +58,7 @@ Ideas and experiments set aside or on indefinite hiatus.
 - **Emissions Data Reports** - Client project for emissions data aggregation
 - **Homebox Ideas** - Ideas potentially moved to archived repository
 - **Ideation Pipeline** - On indefinite hiatus
+- **Pseudobot System Prompts** - Fun experiment for pranks and social mischief
 
 ## To Develop
 
@@ -73,6 +76,9 @@ Cherry-picked repositories worth continued development focus.
 - **Gemini Transcription MCP** - Audio multimodal transcription proof of concept
 - **Home Inventory AI Assistants** - System prompts for home inventory management
 - **Lashon Hara Chatbot** - Important personal/religious project
+- **Personal AI Agent Development Template** - Foundational personal AI system planning notes
+- **Personal Context Store Ideation + Personal RAG Agent Workflow** - Context gathering via proactive interview approach
+- **Red Alert Warning Panel** - Home Assistant grid alert UI for dashboard integration
 
 ## To Maintain
 
@@ -91,6 +97,8 @@ Repositories in good order needing periodic maintenance.
 - **Jewish AI Projects** - Collection of AI projects for Jewish learning
 - **Linux Friendly Voice Tech** - Voice technology resources for Linux
 - **Linux MCP Clients** - MCP client resources for Linux
+- **OR Models With Tools 0811** - API pricing research pattern for periodic updates
+- **OSINT Missile Intelligence Agent** - OSINT utility to update as capabilities emerge
 
 ---
 

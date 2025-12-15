@@ -101,3 +101,15 @@ A space that I feel passionate about tracking and finding and connecting with pe
 This library of system prompts is very useful for research in general and should be expanded upon and maintained.
 
 [![NotebookLM Custom Prompts](https://img.shields.io/badge/repo-NotebookLM--Custom--Prompts-blue?logo=github)](https://github.com/danielrosehill/NotebookLM-Custom-Prompts)
+
+## OR Models With Tools 0811
+
+Useful pricing research for API tools that could be redone periodically based upon this pattern.
+
+[![OR Models With Tools 0811](https://img.shields.io/badge/repo-OR--Models--With--Tools--0811-blue?logo=github)](https://github.com/danielrosehill/OR-Models-With-Tools-0811)
+
+## OSINT Missile Intelligence Agent
+
+Important and useful utility that maintains an important purpose and should be updated as capabilities emerge.
+
+[![OSINT Missile Intelligence Agent](https://img.shields.io/badge/repo-OSINT--Missile--Intelligence--Agent-blue?logo=github)](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)

@@ -29,3 +29,9 @@ I think that I've implemented most of these in my fork. If so, this can be moved
 On indefinite hiatus.
 
 [![Ideation Pipeline](https://img.shields.io/badge/repo-Ideation--Pipeline-blue?logo=github)](https://github.com/danielrosehill/Ideation-Pipeline)
+
+## Pseudobot System Prompts
+
+No serious merit, but maintains a bit of fun with imaginative new ways to utilize for pranks and general social mischief.
+
+[![Pseudobot System Prompts](https://img.shields.io/badge/repo-Pseudobot--System--Prompts-blue?logo=github)](https://github.com/danielrosehill/Pseudobot-System-Prompts)

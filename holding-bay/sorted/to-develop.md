@@ -103,3 +103,23 @@ This is potentially very useful in security testing for API security.
 Definitely merits continued exploration, although it could be broadened out from one model into different models provided by aggregators like Replicate and Fal, which would be a lot more useful.
 
 [![Nano Banana Desktop](https://img.shields.io/badge/repo-Nano--Banana--Desktop-blue?logo=github)](https://github.com/danielrosehill/Nano-Banana-Desktop)
+
+## Personal AI Agent Development Template
+
+Planning notes that remain relevant and foundational to the broader concept of a personal AI system currently being implemented.
+
+[![Personal AI Agent Development Template](https://img.shields.io/badge/repo-Personal--AI--Agent--Development--Template-blue?logo=github)](https://github.com/danielrosehill/Personal-AI-Agent-Development-Template)
+
+## Personal Context Store Ideation + Personal RAG Agent Workflow
+
+Explains the foundational concept of gathering context through a proactive interview approach with agent personalities. Explored in a few implementations that remain of interest.
+
+[![Personal Context Store Ideation](https://img.shields.io/badge/repo-Personal--Context--Store--Ideation-blue?logo=github)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
+
+[![Personal RAG Agent Workflow](https://img.shields.io/badge/repo-Personal--RAG--Agent--Workflow-blue?logo=github)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
+
+## Red Alert Warning Panel
+
+Strategized UI for a grid alert display in Home Assistant panels, with different quadrants for local and national alerts. Important UI experiment to integrate into different dashboards in the future.
+
+[![Red Alert Warning Panel](https://img.shields.io/badge/repo-Red--Alert--Warning--Panel-blue?logo=github)](https://github.com/danielrosehill/Red-Alert-Warning-Panel)

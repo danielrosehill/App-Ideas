@@ -31,3 +31,9 @@ This is a first-entry notepad for MCP servers that I want to maintain as I begin
 The remains are a fairly accurate summation of my thoughts and could be developed slightly, organized slightly, converted into content, or maintained as an underpinning for ideas. Some other projects very much fit with this train of thought.
 
 [![On MCP And Consolidation](https://img.shields.io/badge/repo-On--MCP--And--Consolidation-blue?logo=github)](https://github.com/danielrosehill/On-MCP-And-Consolidation)
+
+## Pay For Ideas
+
+Notes and general thoughts for long-term concepts that don't have specific, immediate implementation.
+
+[![Pay For Ideas](https://img.shields.io/badge/repo-Pay--For--Ideas-blue?logo=github)](https://github.com/danielrosehill/Pay-For-Ideas)
