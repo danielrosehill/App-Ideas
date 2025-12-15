@@ -27,3 +27,9 @@ It would be extremely useful to have a viable MCP for Green Invoice, and it's ce
 We may need to rewrite this a little bit to reflect updated data schema. Nevertheless, it remains a very useful and important backup utility to maintain.
 
 [![Homebox Backup GUI](https://img.shields.io/badge/repo-Homebox--Backup--GUI-blue?logo=github)](https://github.com/danielrosehill/Homebox-Backup-GUI)
+
+## STT Fine-Tune Project Outline
+
+Should update these notes regarding the actual progress undertaken since then in creating fine-tunes, validating performance, and finding some very interesting and unexpected findings on evaluations. Remains an area of interest, particularly around thinking beyond Whisper and looking for ways to leverage fine-tunes with the long tail of models, particularly on edge devices.
+
+[![STT Fine-Tune Project Outline](https://img.shields.io/badge/repo-STT--Fine--Tune--Project--Outline-blue?logo=github)](https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline)

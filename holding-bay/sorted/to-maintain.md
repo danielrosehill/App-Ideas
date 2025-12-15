@@ -113,3 +113,15 @@ Useful pricing research for API tools that could be redone periodically based up
 Important and useful utility that maintains an important purpose and should be updated as capabilities emerge.
 
 [![OSINT Missile Intelligence Agent](https://img.shields.io/badge/repo-OSINT--Missile--Intelligence--Agent-blue?logo=github)](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)
+
+## Snap-It
+
+Snap-It remains extremely important, and it's worth revisiting this GUI to make sure that it's up to date, functional, and maintained.
+
+[![Snap-It](https://img.shields.io/badge/repo-Snap--It-blue?logo=github)](https://github.com/danielrosehill/Snap-It)
+
+## Software Wish List AI Context
+
+Created mostly as an experiment on the idea of having a consistent, non-changing context. Intentionally public on GitHub to have a raw Markdown file on the public internet to point an agent to. Mainly used for that reason.
+
+[![Software Wish List AI Context](https://img.shields.io/badge/repo-Software--Wish--List--AI--Context-blue?logo=github)](https://github.com/danielrosehill/Software-Wish-List-AI-Context)

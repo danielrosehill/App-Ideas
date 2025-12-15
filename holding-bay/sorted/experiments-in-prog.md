@@ -19,3 +19,9 @@ This one could be added to a category of intriguing AI experiments intended to p
 This would actually be worth running again, as it's one of the parameters in AI models that continues to get extremely little attention but which I think is extremely important in practice.
 
 [![LLM Max Token Length 0225](https://img.shields.io/badge/repo-LLM--Max--Token--Length--0225-blue?logo=github)](https://github.com/danielrosehill/LLM-Max-Token-Length-0225)
+
+## Side Hustle Ideation Agent
+
+A fun idea with practical utility, especially exploring the interesting concept of using an agent to do ideation batches. The main challenge in attempts at this is avoiding repetition, which is hard to figure out given constraints around memory and context. You can't provide the entire generated list as context for every turn, but it was both fun and interesting to try it out.
+
+[![Side Hustle Ideation Agent](https://img.shields.io/badge/repo-Side--Hustle--Ideation--Agent-blue?logo=github)](https://github.com/danielrosehill/Side-Hustle-Ideation-Agent)

@@ -61,3 +61,9 @@ The API also has great utility and potential in the real-time voice typing appli
 This was a potentially very useful utility, as I still haven't found a WhatsApp client that specifically and only does two account support. It prevents the overhead of unwanted and unnecessary background processes. It could probably use a revision.
 
 [![Dual WhatsApp Linux Desktop](https://img.shields.io/badge/repo-Dual--WhatsApp--Linux--Desktop-blue?logo=github)](https://github.com/danielrosehill/Dual-WhatsApp-Linux-Desktop)
+
+## Sound Sensitivity Notes
+
+Haven't gotten around to doing this one yet, but definitely intend to do so.
+
+[![Sound Sensitivity Notes](https://img.shields.io/badge/repo-Sound--Sensitivity--Notes-blue?logo=github)](https://github.com/danielrosehill/Sound-Sensitivity-Notes)
