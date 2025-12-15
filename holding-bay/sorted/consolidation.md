@@ -53,3 +53,11 @@ Using Claude to manage the Linux desktop has been a resounding success so far. M
 Consolidated into local desktop maintenance and recovery utilities.
 
 [![Local Linux Repair Bot](https://img.shields.io/badge/repo-Local--Linux--Repair--Bot-blue?logo=github)](https://github.com/danielrosehill/Local-Linux-Repair-Bot)
+
+## MCP Installation Notebook + Claude Code Notes
+
+This was a good starter, but as the distinction between development and AI system development breaks down, this can probably be consolidated with Claude's code MCP notes, Claude code in general, into a master development notebook.
+
+**MCP Installation Notebook:**
+
+[![MCP Installation Notebook](https://img.shields.io/badge/repo-MCP--Installation--Notebook-blue?logo=github)](https://github.com/danielrosehill/MCP-Installation-Notebook)

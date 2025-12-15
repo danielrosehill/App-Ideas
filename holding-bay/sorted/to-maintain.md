@@ -83,3 +83,21 @@ This is very challenging to maintain, as it's becoming a vast field but neverthe
 This will be a very dynamic field, I predict, and I want to keep this up to date. Currently, the tooling is dominated by CLIs that are challenging to use and set up. My hope is that as more user-friendly tools come to market, for Linux, I will keep this updated.
 
 [![Linux MCP Clients](https://img.shields.io/badge/repo-Linux--MCP--Clients-blue?logo=github)](https://github.com/danielrosehill/Linux-MCP-Clients)
+
+## My AI Stack
+
+I want to roll staged updates into this tracking repository.
+
+[![My AI Stack](https://img.shields.io/badge/repo-My--AI--Stack-blue?logo=github)](https://github.com/danielrosehill/My-AI-Stack)
+
+## Non-Code Claude Code
+
+A space that I feel passionate about tracking and finding and connecting with people who are doing like-minded exploration of the concept. Resources are growing.
+
+[![Non-Code Claude Code](https://img.shields.io/badge/repo-Non--Code--Claude--Code-blue?logo=github)](https://github.com/danielrosehill/Non-Code-Claude-Code)
+
+## NotebookLM Custom Prompts
+
+This library of system prompts is very useful for research in general and should be expanded upon and maintained.
+
+[![NotebookLM Custom Prompts](https://img.shields.io/badge/repo-NotebookLM--Custom--Prompts-blue?logo=github)](https://github.com/danielrosehill/NotebookLM-Custom-Prompts)

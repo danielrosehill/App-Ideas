@@ -79,3 +79,27 @@ These system prompts could be very useful for implementing in the revised inbox 
 Very important and dear to me project that I want to look into extensively.
 
 [![Lashon Hara Chatbot](https://img.shields.io/badge/repo-Lashon--Hara--Chatbot-blue?logo=github)](https://github.com/danielrosehill/Lashon-Hara-Chatbot)
+
+## Make Agent Friendly
+
+This is a very relevant idea that could probably be expanded upon in some format.
+
+[![Make Agent Friendly](https://img.shields.io/badge/repo-Make--Agent--Friendly-blue?logo=github)](https://github.com/danielrosehill/Make-Agent-Friendly)
+
+## Karaoke Music Vid Generator
+
+I've had a lot of fun with this and want to create an actual GUI for it at some point.
+
+[![Karaoke Music Vid Generator](https://img.shields.io/badge/repo-Karaoke--Music--Vid--Generator-blue?logo=github)](https://github.com/danielrosehill/Karaoke-Music-Vid-Generator)
+
+## Mock PII Data
+
+This is potentially very useful in security testing for API security.
+
+[![Mock PII Data](https://img.shields.io/badge/repo-Mock--PII--Data-blue?logo=github)](https://github.com/danielrosehill/Mock-PII-Data)
+
+## Nano Banana Desktop
+
+Definitely merits continued exploration, although it could be broadened out from one model into different models provided by aggregators like Replicate and Fal, which would be a lot more useful.
+
+[![Nano Banana Desktop](https://img.shields.io/badge/repo-Nano--Banana--Desktop-blue?logo=github)](https://github.com/danielrosehill/Nano-Banana-Desktop)
