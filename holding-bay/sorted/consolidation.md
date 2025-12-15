@@ -14,13 +14,11 @@ I haven't thought yet how this could best be implemented, but would very much li
 
 The initial validation of pulling in an organized structure of repositories from GitHub was successful, so it's just pending thinking as to how it can be put into utility.
 
-![Github Star Organiser](https://img.shields.io/badge/repo-Github--Star--Organiser-blue?logo=github)
-https://github.com/danielrosehill/Github-Star-Organiser
+[![Github Star Organiser](https://img.shields.io/badge/repo-Github--Star--Organiser-blue?logo=github)](https://github.com/danielrosehill/Github-Star-Organiser)
 
 **Interesting Tech Things:**
 
-![Interesting Tech Things](https://img.shields.io/badge/repo-Interesting--Tech--Things-blue?logo=github)
-https://github.com/danielrosehill/Interesting-Tech-Things
+[![Interesting Tech Things](https://img.shields.io/badge/repo-Interesting--Tech--Things-blue?logo=github)](https://github.com/danielrosehill/Interesting-Tech-Things)
 
 ## AI Agent UN + Israel GeoInsights + Middle Eastern Peace Summit
 
@@ -28,12 +26,10 @@ These projects pair closely together in the concept of agents for geopolitical d
 
 **AI Agent UN:**
 
-![AI Agent UN](https://img.shields.io/badge/repo-AI--Agent--UN-blue?logo=github)
-https://github.com/danielrosehill/AI-Agent-UN
+[![AI Agent UN](https://img.shields.io/badge/repo-AI--Agent--UN-blue?logo=github)](https://github.com/danielrosehill/AI-Agent-UN)
 
 **Israel GeoInsights:**
 
 This pairs very closely with the Middle Eastern Peace Summit and AI, and AI general experiments in the concept of agents for geopolitical decision modeling.
 
-![Israel GeoInsights](https://img.shields.io/badge/repo-Israel--GeoInsights-blue?logo=github)
-https://github.com/danielrosehill/Israel-GeoInsights
+[![Israel GeoInsights](https://img.shields.io/badge/repo-Israel--GeoInsights-blue?logo=github)](https://github.com/danielrosehill/Israel-GeoInsights)
