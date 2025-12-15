@@ -1,107 +1,146 @@
-# Holding Bay Index
+# Holding Bay Index - December 15, 2025
 
-This index provides a comprehensive overview of all repositories organized in the holding bay, categorized by their current status and development priority.
+This is the end-of-year review master index of all repositories organized in the holding bay as of December 15, 2025.
+
+---
 
 ## Consolidation
 
 Related ideas and projects that could be grouped, matched, or integrated together.
 
-- **Github Star Organiser + Interesting Tech Things** - GitHub star organization with downstream data sources
-- **AI Agent UN + Israel GeoInsights + Middle Eastern Peace Summit + Peace In The Middle East** - Geopolitical decision modeling projects
-- **Claude Linux Desktop Manager + Llama OS Doctor** - Agentic AI for system administration
-- **Panel Of Claude + AI Decision-Making Exploration** - Synthesized perspectives and decision-making in AI systems
+- [Github Star Organiser](https://github.com/danielrosehill/Github-Star-Organiser)
+- [Interesting Tech Things](https://github.com/danielrosehill/Interesting-Tech-Things)
+- [AI Agent UN](https://github.com/danielrosehill/AI-Agent-UN)
+- [Israel GeoInsights](https://github.com/danielrosehill/Israel-GeoInsights)
+- [Peace In The Middle East](https://github.com/danielrosehill/Peace-In-The-Middle-East)
+- [Claude Linux Desktop Manager](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager)
+- [Llama OS Doctor Idea](https://github.com/danielrosehill/Llama-OS-Doctor-Idea)
+- [Local Linux Repair Bot](https://github.com/danielrosehill/Local-Linux-Repair-Bot)
+- [MCP Installation Notebook](https://github.com/danielrosehill/MCP-Installation-Notebook)
+- [Panel Of Claude](https://github.com/danielrosehill/Panel-Of-Claude)
 
 ## Experiments in Progress
 
 Enduring experiments and proof-of-concepts exploring various approaches.
 
-- **AI Agent UN** - Geopolitical agent experimentation
-- **LLM Detective** - AI experiments exploring simulated intelligence effects
-- **LLM Max Token Length 0225** - Research on underexplored token length parameters
+- [AI Agent UN](https://github.com/danielrosehill/AI-Agent-UN)
+- [LLM Detective](https://github.com/danielrosehill/LLM-Detective)
+- [LLM Max Token Length 0225](https://github.com/danielrosehill/LLM-Max-Token-Length-0225)
+- [Side Hustle Ideation Agent](https://github.com/danielrosehill/Side-Hustle-Ideation-Agent)
 
 ## General Ideas
 
 Long-term visions addressing bigger-picture challenges.
 
-- **A Better Jobs Platform Notes** - Reimagining job market platforms
-- **Jerusalem Tech Ecosystem** - Long-term passion project for Jerusalem tech community
-- **Pay For Ideas** - Long-term concept notes without immediate implementation
+- [A Better Jobs Platform Notes](https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes)
+- [Jerusalem Tech Ecosystem](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem)
+- [Local Secrets MCP](https://github.com/danielrosehill/Local-Secrets-MCP)
+- [MCP Server Ideas](https://github.com/danielrosehill/MCP-Server-Ideas)
+- [On MCP And Consolidation](https://github.com/danielrosehill/On-MCP-And-Consolidation)
+- [Pay For Ideas](https://github.com/danielrosehill/Pay-For-Ideas)
 
 ## Needs Update
 
 Repositories that are behind or lagging and need updating.
 
-- **Back Up Your SaaS** - SaaS backup notes and guidance
-- **Google Air Quality MCP** - Air quality API exploration and unification
-- **Green Invoice API My Notes** - Green Invoice MCP development notes
-- **Homebox Backup GUI** - Backup utility needing schema updates
+- [Back Up Your SaaS](https://github.com/danielrosehill/Back-Up-Your-SaaS)
+- [Google Air Quality MCP](https://github.com/danielrosehill/Google-Air-Quality-MCP)
+- [Green Invoice API My Notes](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
+- [Homebox Backup GUI](https://github.com/danielrosehill/Homebox-Backup-GUI)
+- [STT Fine-Tune Project Outline](https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline)
 
 ## Not Started
 
 Projects with defined scope waiting for implementation.
 
-- **Batch Optical Archivist** - Family photo backup solution
-- **Claude Rescue** - Recovery utility for Claude projects
-- **Claude Stack Research Workspace** - Template for stack research workflows
-- **Claude Therapy Tracker** - AI-assisted therapy tracking template
-- **Claude Think Tank** - Ongoing exploration framework with panels
-- **Data Analysis Notebook** - Public data notebook project
-- **Data Relationships Helper** - SQL relationship reference utility
-- **Deepgram Voice Keyboard Ubuntu** - Voice typing implementation for Linux
-- **Dual WhatsApp Linux Desktop** - Two-account WhatsApp client
+- [Batch Optical Archivist](https://github.com/danielrosehill/Batch-Optical-Archivist)
+- [Claude Rescue](https://github.com/danielrosehill/Claude-Rescue)
+- [Claude Stack Research Workspace](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)
+- [Claude Therapy Tracker](https://github.com/danielrosehill/Claude-Therapy-Tracker)
+- [Claude Think Tank](https://github.com/danielrosehill/Claude-Think-Tank)
+- [Data Analysis Notebook](https://github.com/danielrosehill/Data-Analysis-Notebook)
+- [Data Relationships Helper](https://github.com/danielrosehill/Data-Relationships-Helper)
+- [Deepgram Voice Keyboard Ubuntu](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu)
+- [Dual WhatsApp Linux Desktop](https://github.com/danielrosehill/Dual-WhatsApp-Linux-Desktop)
+- [Sound Sensitivity Notes](https://github.com/danielrosehill/Sound-Sensitivity-Notes)
 
 ## Parked
 
 Ideas and experiments set aside or on indefinite hiatus.
 
-- **Crying Baby Audio Scrub** - Voice implementation proof of concept
-- **Emissions Data Reports** - Client project for emissions data aggregation
-- **Homebox Ideas** - Ideas potentially moved to archived repository
-- **Ideation Pipeline** - On indefinite hiatus
-- **Pseudobot System Prompts** - Fun experiment for pranks and social mischief
+- [Crying Baby Audio Scrub](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub)
+- [Emissions Data Reports](https://github.com/danielrosehill/Emissions-Data-Reports)
+- [Homebox Ideas](https://github.com/danielrosehill/Homebox-Ideas)
+- [Ideation Pipeline](https://github.com/danielrosehill/Ideation-Pipeline)
+- [Pseudobot System Prompts](https://github.com/danielrosehill/Pseudobot-System-Prompts)
 
 ## To Develop
 
 Cherry-picked repositories worth continued development focus.
 
-- **Claude Code Writing Squad** - AI-assisted writing for long-form content
-- **Claude Decision Evaluation Framework** - Decision evaluation experiments
-- **Claude Deep Research Template** - Research project template with MCP integration
-- **Claude File Organiser Super Slash** - File system organization slash command
-- **Claude Media Monitor** - Media monitoring workspace with MCP integration
-- **Cloud ASR MCP** - Multimodal audio transcription MCP
-- **Code Tutor Agent Model** - Learning-focused code generation approach
-- **Context Waterfall Architecture Notes** - Context workflow architecture concepts
-- **End Of Day Worklog** - Daily worklog and wellness utility
-- **Gemini Transcription MCP** - Audio multimodal transcription proof of concept
-- **Home Inventory AI Assistants** - System prompts for home inventory management
-- **Lashon Hara Chatbot** - Important personal/religious project
-- **Personal AI Agent Development Template** - Foundational personal AI system planning notes
-- **Personal Context Store Ideation + Personal RAG Agent Workflow** - Context gathering via proactive interview approach
-- **Red Alert Warning Panel** - Home Assistant grid alert UI for dashboard integration
+- [Claude Code Writing Squad](https://github.com/danielrosehill/Claude-Code-Writing-Squad)
+- [Claude Decision Evaluation Framework](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)
+- [Claude Deep Research Template](https://github.com/danielrosehill/Claude-Deep-Research-Template)
+- [Claude File Organiser Super Slash](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash)
+- [Claude Media Monitor](https://github.com/danielrosehill/Claude-Media-Monitor)
+- [Cloud ASR MCP](https://github.com/danielrosehill/Cloud-ASR-MCP)
+- [Code Tutor Agent Model](https://github.com/danielrosehill/Code-Tutor-Agent-Model)
+- [Context Waterfall Architecture Notes](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
+- [End Of Day Worklog](https://github.com/danielrosehill/End-Of-Day-Worklog)
+- [Gemini Transcription MCP](https://github.com/danielrosehill/Gemini-Transcription-MCP)
+- [Home Inventory AI Assistants](https://github.com/danielrosehill/Home-Inventory-AI-Assistants)
+- [Karaoke Music Vid Generator](https://github.com/danielrosehill/Karaoke-Music-Vid-Generator)
+- [Lashon Hara Chatbot](https://github.com/danielrosehill/Lashon-Hara-Chatbot)
+- [Make Agent Friendly](https://github.com/danielrosehill/Make-Agent-Friendly)
+- [Mock PII Data](https://github.com/danielrosehill/Mock-PII-Data)
+- [Nano Banana Desktop](https://github.com/danielrosehill/Nano-Banana-Desktop)
+- [Personal AI Agent Development Template](https://github.com/danielrosehill/Personal-AI-Agent-Development-Template)
+- [Personal Context Store Ideation](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
+- [Personal RAG Agent Workflow](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
+- [Red Alert Warning Panel](https://github.com/danielrosehill/Red-Alert-Warning-Panel)
+- [Voice Blog Creator](https://github.com/danielrosehill/Voice-Blog-Creator)
+- [Voice Prompt Cleanup Script](https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script)
 
 ## To Maintain
 
 Repositories in good order needing periodic maintenance.
 
-- **AI Stack Oct 2025** - Foundation for AI stack exploration
-- **Claude ADHD Research Workspace** - ADHD research exploration workspace
-- **Claude Change My View** - Perspective-challenging AI workspace
-- **Cool Claude Code Stuff** - Curated Claude Code resources collection
-- **Experiments And Evaluations Index** - Index of experiments and evaluations
-- **Geopolitical Analysis System Prompts** - Prompt library for geopolitical analysis
-- **Github Gist MCP Minimal** - Reliable GitHub Gist MCP implementation
-- **Gmail Search Strings** - Helpful Gmail search utility
-- **Hebrew Date KDE Widget** - Hebrew calendar widget for KDE
-- **Israel To ROW Salary Converter V2** - Salary conversion utility
-- **Jewish AI Projects** - Collection of AI projects for Jewish learning
-- **Linux Friendly Voice Tech** - Voice technology resources for Linux
-- **Linux MCP Clients** - MCP client resources for Linux
-- **OR Models With Tools 0811** - API pricing research pattern for periodic updates
-- **OSINT Missile Intelligence Agent** - OSINT utility to update as capabilities emerge
+- [AI Stack Oct 2025](https://github.com/danielrosehill/AI-Stack-Oct-2025)
+- [Claude ADHD Research Workspace](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)
+- [Claude Change My View](https://github.com/danielrosehill/Claude-Change-My-View)
+- [Cool Claude Code Stuff](https://github.com/danielrosehill/Cool-Claude-Code-Stuff)
+- [Experiments And Evaluations Index](https://github.com/danielrosehill/Experiments-And-Evaluations-Index)
+- [Geopolitical Analysis System Prompts](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts)
+- [Github Gist MCP Minimal](https://github.com/danielrosehill/Github-Gist-MCP-Minimal)
+- [Gmail Search Strings](https://github.com/danielrosehill/Gmail-Search-Strings)
+- [Hebrew Date KDE Widget](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget)
+- [Israel To ROW Salary Converter V2](https://github.com/danielrosehill/Israel-To-ROW-Salary-Converter-V2)
+- [Jewish AI Projects](https://github.com/danielrosehill/Jewish-AI-Projects)
+- [Linux Friendly Voice Tech](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+- [Linux MCP Clients](https://github.com/danielrosehill/Linux-MCP-Clients)
+- [My AI Stack](https://github.com/danielrosehill/My-AI-Stack)
+- [Non-Code Claude Code](https://github.com/danielrosehill/Non-Code-Claude-Code)
+- [NotebookLM Custom Prompts](https://github.com/danielrosehill/NotebookLM-Custom-Prompts)
+- [OR Models With Tools 0811](https://github.com/danielrosehill/OR-Models-With-Tools-0811)
+- [OSINT Missile Intelligence Agent](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)
+- [Snap-It](https://github.com/danielrosehill/Snap-It)
+- [Software Wish List AI Context](https://github.com/danielrosehill/Software-Wish-List-AI-Context)
+- [USB Foot Mouse Linux](https://github.com/danielrosehill/USB-Foot-Mouse-Linux)
+- [Vendor Agent CLIs](https://github.com/danielrosehill/Vendor-Agent-CLIs)
+- [Vibe Coded Disclosure](https://github.com/danielrosehill/Vibe-Coded-Disclosure)
+
+## AI Prank Ideas
+
+Fun experiments for pranks and social mischief.
+
+- [The Bot Has A Question](https://github.com/danielrosehill/The-Bot-Has-A-Question)
+- [Toxic GPT](https://github.com/danielrosehill/Toxic-GPT)
+- [Two AIs Talk](https://github.com/danielrosehill/Two-AIs-Talk)
 
 ---
 
-**Last Updated**: December 2025
+**Index Date**: December 15, 2025
+**Index Type**: End of Year Review
+**Total Repositories**: 87
 
-For detailed information about each repository, view the individual category files in the [`sorted/`](sorted/) directory.
+For detailed information about each repository, view the individual category files in the [sorted/](sorted/) directory.
