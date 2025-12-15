@@ -1,29 +1,51 @@
 # App Ideas (Staging / Pipeline Repository)
 
-My motivation for creating this repository is to develop a better system for parking ideas for vibe coded apps (and utilities) that are pending execution/implementation.
+![alt text](images/banner.png)
 
-Vibe-coding can be an immensely gratifying but oddly addictive pursuit. For the first time since the dawn of computing technology, it's possible to create utilities and proof of concepts at a pace that would not have otherwise been possible. 
+This repository provides a structured system for capturing, refining, and organizing ideas for vibe-coded apps and utilities pending implementation.
 
-Over the course of the past year - joined by Claude Code, Codex, and others - I've been working my way through a lengthy backlog of technology utilities that I always wished existed! In other cases I'm coming up with new ones. 
+## Overview
 
-Either way: I tend to go through spurts of ideation. I've realized that nothing has to be created tomorrow. And that the process of letting ideas marinate is a sort of mental workflow of its own. 
+Vibe-coding enables rapid creation of utilities and proof-of-concepts at an unprecedented pace. Over the past year, using Claude Code and other AI assistants, I've been working through a backlog of utilities I've always wished existed—while continuously generating new ideas.
 
-## Process / Workflow
+This repository manages that ideation pipeline. Ideas captured here can marinate until the right moment for implementation arrives. 
 
-The process that I've developed for capturing these ideas has become relatively templated over time and consists of the following. If this maps onto any structured form of software development, then spec-driven development probably comes closest to an accurate descriptor:
+## Workflow
 
-- I record the idea as a voice note. The purpose of this workflow is to capture all the minute details that would be painstaking to write out at a keyboard. This voice note invariably becomes a mixture of a spec as well as some thoughts for the feasibility of creating this utility.  
-- I transcribe this idea using ASR (Whisper etc) 
-- I then use a large language model to clean up the transcript.  
-- Finally, I use another pass of an LLM in order to get this cleaned up transcript and convert it into a polished script.   
-- Finally, this becomes the bedrock for directing an agent to begin developing or vibe coding the implementation. 
+This process approximates spec-driven development, with each idea progressing through several refinement stages:
 
-The basic structure that will follow in this repository as it tries to aggregate these ideas is to group each discrete idea into its own folder.  Generate those foundational documents within that folder so that they're ready for development. 
+1. **Voice Recording**: Capture the idea as an audio note, including detailed specifications and feasibility thoughts
+2. **Transcription**: Use ASR (Whisper, etc.) to generate a raw transcript
+3. **Refinement**: Clean up the transcript using an LLM
+4. **Analysis**: Generate AI assessments (does-it-exist checks, feasibility ratings)
+5. **Specification**: Convert the refined transcript into a polished spec
+6. **Implementation**: Use the spec to direct agent-based development
 
-Ideas would either lurk here indefinitely or be moved into a done folder if I get round to trying them out. 
+### Repository Structure
 
-If it works, I hope that this workflow will be useful.
+Each idea gets its own folder containing:
+- Audio file(s) (original voice notes)
+- `transcripts/` - Raw and refined transcripts
+- `ai-analysis/` - AI-generated assessments
+- Specification documents
 
-Needless to say:
+Ideas live in:
+- `pending/` - Ideas awaiting implementation
+- `done/` - Completed/implemented ideas
+- `to-process/` - Raw ideas needing transcription and analysis
 
-Anybody is welcome to take an idea whether implemented or not and try to implement it themselves. The ideas - like the code - are MIT!
+## Ideas Index
+
+### Pending Ideas
+
+| Idea | Audio | Transcript | Analysis | Status |
+|------|-------|------------|----------|--------|
+| [PipeWire Source Priority Organiser](pending/pipewire-source-priority-organiser/) | [Audio](pending/pipewire-source-priority-organiser/idea.mp3) | [Cleaned](pending/pipewire-source-priority-organiser/transcripts/02-cleaned-transcript.md) | [Analysis](pending/pipewire-source-priority-organiser/ai-analysis/ai-analysis.md) | Pending |
+
+### Completed Ideas
+
+*No completed ideas yet*
+
+## License & Contributions
+
+All ideas and code in this repository are licensed under MIT. Feel free to implement any idea—pending or completed—yourself!
