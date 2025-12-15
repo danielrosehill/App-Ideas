@@ -101,3 +101,8 @@ I think that I've implemented most of these in my fork. If so, this can be moved
 
 ![Homebox Ideas](https://img.shields.io/badge/repo-Homebox--Ideas-blue?logo=github)
 https://github.com/danielrosehill/Homebox-Ideas
+
+## Ideation Pipeline
+
+![Ideation Pipeline](https://img.shields.io/badge/repo-Ideation--Pipeline-blue?logo=github)
+https://github.com/danielrosehill/Ideation-Pipeline

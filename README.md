@@ -36,6 +36,21 @@ Ideas live in:
 
 Categories help group related ideas together (e.g., `voice-to-text/`, `automation/`, `media-processing/`).
 
+## Holding Bay Categories
+
+The `holding-bay/sorted/` directory organizes repository projects by their current status and development priority:
+
+| Category | Description | Link |
+|----------|-------------|------|
+| **Experiments in Progress** | Enduring experiments and proof-of-concepts that aren't overnight projects. Ongoing explorations to see if particular approaches work in practice. | [View](holding-bay/sorted/experiments-in-prog.md) |
+| **General Ideas** | Long-term visions for solving particular problems. Bigger-picture concepts, sometimes addressing societal challenges like job markets. | [View](holding-bay/sorted/general-ideas.md) |
+| **Needs Update** | Repositories that are behind or lagging a bit and need updating to bring them current. | [View](holding-bay/sorted/needs-update.md) |
+| **Not Started** | Projects that are parked and waiting for time to work on them. Initial scope or context has typically been defined, but implementation hasn't begun yet. | [View](holding-bay/sorted/not-started.md) |
+| **Repos** | Repository collection and references. | [View](holding-bay/sorted/repos.md) |
+| **To Develop** | Cherry-picked repositories that show merit and are worth continuing to work on and focus development efforts. | [View](holding-bay/sorted/to-develop.md) |
+| **To Maintain** | Repositories that are in good order and already started. These just need periodic maintenance to keep them up to date. | [View](holding-bay/sorted/to-maintain.md) |
+| **Parked** | Ideas and experiments that have been set aside. | [View](holding-bay/sorted/parked.md.) |
+
 ## Ideas Index
 
 ### Pending Ideas
